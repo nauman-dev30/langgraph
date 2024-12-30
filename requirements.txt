@@ -1,0 +1,12 @@
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-google-genai
+uvicorn
+httpie
+requests
+httpx
+faiss-cpu
+fastapi
+langchain
